@@ -1,6 +1,15 @@
-# vue3-expense-tracker
+# Expense Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+An expense tracker app built with Vue 3 and Tailwind CSS.
+
+- Adding and removing expenses/income transactions
+- Tracking total balance
+- Save data to local storage
+- [Vue Toastification](https://github.com/Maronato/vue-toastification) for notifications
+
+## Main source
+
+The main idea and code are taken from this source [https://github.com/bradtraversy/vue-expense-tracker](https://github.com/bradtraversy/vue-expense-tracker)
 
 ## Recommended IDE Setup
 
